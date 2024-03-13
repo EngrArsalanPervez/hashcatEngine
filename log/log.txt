@@ -1,0 +1,105 @@
+2024-03-13 12:13:01:INFO:hashcatEngine STARTED
+2024-03-13 12:13:01:INFO:input.hash fetched successfully
+2024-03-13 12:13:01:ERROR:Failed to open input.hash file
+2024-03-13 12:20:23:INFO:hashcatEngine STARTED
+2024-03-13 12:20:23:INFO:input.hash fetched successfully
+2024-03-13 12:24:02:INFO:hashcatEngine STARTED
+2024-03-13 12:24:02:INFO:input.hash fetched successfully
+2024-03-13 12:26:30:INFO:hashcatEngine STARTED
+2024-03-13 12:26:30:INFO:input.hash fetched successfully
+2024-03-13 12:28:37:INFO:hashcatEngine STARTED
+2024-03-13 12:28:37:INFO:input.hash fetched successfully
+2024-03-13 12:28:53:INFO:hashcatEngine STARTED
+2024-03-13 12:28:53:INFO:input.hash fetched successfully
+2024-03-13 12:29:01:INFO:hashcatEngine STARTED
+2024-03-13 12:29:01:INFO:input.hash fetched successfully
+2024-03-13 12:29:29:INFO:hashcatEngine STARTED
+2024-03-13 12:29:29:INFO:input.hash fetched successfully
+2024-03-13 12:30:14:INFO:hashcatEngine STARTED
+2024-03-13 12:30:14:INFO:input.hash fetched successfully
+2024-03-13 12:32:32:INFO:hashcatEngine STARTED
+2024-03-13 12:32:32:INFO:input.hash fetched successfully
+2024-03-13 12:33:32:INFO:hashcatEngine STARTED
+2024-03-13 12:33:32:INFO:input.hash fetched successfully
+2024-03-13 12:34:32:INFO:hashcatEngine STARTED
+2024-03-13 12:34:32:INFO:input.hash fetched successfully
+2024-03-13 12:35:01:INFO:hashcatEngine STARTED
+2024-03-13 12:35:01:INFO:input.hash fetched successfully
+2024-03-13 12:35:17:INFO:hashcatEngine STARTED
+2024-03-13 12:35:17:INFO:input.hash fetched successfully
+2024-03-13 12:35:27:INFO:hashcatEngine STARTED
+2024-03-13 12:35:27:INFO:input.hash fetched successfully
+2024-03-13 12:35:34:INFO:hashcatEngine STARTED
+2024-03-13 12:35:34:INFO:input.hash fetched successfully
+2024-03-13 12:36:04:INFO:hashcatEngine STARTED
+2024-03-13 12:36:04:INFO:input.hash fetched successfully
+2024-03-13 12:46:47:INFO:hashcatEngine STARTED
+2024-03-13 12:46:47:INFO:input.hash fetched successfully
+2024-03-13 12:47:27:INFO:hashcatEngine STARTED
+2024-03-13 12:47:27:INFO:input.hash fetched successfully
+2024-03-13 12:50:42:INFO:hashcatEngine STARTED
+2024-03-13 12:50:42:INFO:input.hash fetched successfully
+2024-03-13 12:51:37:INFO:hashcatEngine STARTED
+2024-03-13 12:51:37:INFO:input.hash fetched successfully
+2024-03-13 12:52:24:INFO:hashcatEngine STARTED
+2024-03-13 12:52:24:INFO:input.hash fetched successfully
+2024-03-13 12:57:44:INFO:hashcatEngine STARTED
+2024-03-13 12:57:44:INFO:input.hash fetched successfully
+2024-03-13 12:57:59:INFO:hashcatEngine STARTED
+2024-03-13 12:57:59:INFO:input.hash fetched successfully
+2024-03-13 12:58:18:INFO:hashcatEngine STARTED
+2024-03-13 12:58:18:INFO:input.hash fetched successfully
+2024-03-13 12:58:54:INFO:hashcatEngine STARTED
+2024-03-13 12:58:54:INFO:input.hash fetched successfully
+2024-03-13 13:00:52:INFO:hashcatEngine STARTED
+2024-03-13 13:00:52:INFO:input.hash fetched successfully
+2024-03-13 13:01:22:INFO:hashcatEngine STARTED
+2024-03-13 13:01:22:INFO:input.hash fetched successfully
+2024-03-13 13:01:46:INFO:hashcatEngine STARTED
+2024-03-13 13:01:46:INFO:input.hash fetched successfully
+2024-03-13 13:02:01:INFO:hashcatEngine STARTED
+2024-03-13 13:02:01:INFO:input.hash fetched successfully
+2024-03-13 13:03:22:INFO:hashcatEngine STARTED
+2024-03-13 13:03:22:INFO:input.hash fetched successfully
+2024-03-13 13:03:29:INFO:hashcatEngine STARTED
+2024-03-13 13:03:29:INFO:input.hash fetched successfully
+2024-03-13 13:03:49:INFO:hashcatEngine STARTED
+2024-03-13 13:03:49:INFO:input.hash fetched successfully
+2024-03-13 13:04:16:INFO:hashcatEngine STARTED
+2024-03-13 13:04:16:INFO:input.hash fetched successfully
+2024-03-13 13:05:53:INFO:hashcatEngine STARTED
+2024-03-13 13:05:53:INFO:input.hash fetched successfully
+2024-03-13 13:06:24:INFO:hashcatEngine STARTED
+2024-03-13 13:06:24:INFO:input.hash fetched successfully
+2024-03-13 13:07:47:INFO:hashcatEngine STARTED
+2024-03-13 13:07:47:INFO:input.hash fetched successfully
+2024-03-13 13:09:06:INFO:hashcatEngine STARTED
+2024-03-13 13:09:06:INFO:input.hash fetched successfully
+2024-03-13 13:11:37:INFO:hashcatEngine STARTED
+2024-03-13 13:11:37:INFO:input.hash fetched successfully
+2024-03-13 13:44:30:INFO:hashcatEngine STARTED
+2024-03-13 13:44:30:INFO:input.hash fetched successfully
+2024-03-13 13:46:03:INFO:hashcatEngine STARTED
+2024-03-13 13:46:03:INFO:input.hash fetched successfully
+2024-03-13 13:50:29:INFO:hashcatEngine STARTED
+2024-03-13 13:50:29:INFO:input.hash fetched successfully
+2024-03-13 13:50:29:ERROR:Failed to open input directory
+2024-03-13 13:51:19:INFO:hashcatEngine STARTED
+2024-03-13 13:51:19:INFO:input.hash fetched successfully
+2024-03-13 13:51:44:INFO:hashcatEngine STARTED
+2024-03-13 13:51:44:INFO:input.hash fetched successfully
+2024-03-13 13:53:05:INFO:hashcatEngine STARTED
+2024-03-13 13:53:05:INFO:input.hash fetched successfully
+2024-03-13 13:54:18:INFO:hashcatEngine STARTED
+2024-03-13 13:54:18:INFO:input.hash fetched successfully
+2024-03-13 13:58:49:INFO:hashcatEngine STARTED
+2024-03-13 13:58:49:INFO:input.hash fetched successfully
+2024-03-13 14:02:13:INFO:hashcatEngine STARTED
+2024-03-13 14:02:13:INFO:input.hash fetched successfully
+2024-03-13 14:03:02:INFO:hashcatEngine STARTED
+2024-03-13 14:03:02:INFO:input.hash fetched successfully
+2024-03-13 14:06:34:INFO:hashcatEngine STARTED
+2024-03-13 14:06:34:INFO:input.hash fetched successfully
+2024-03-13 14:07:28:INFO:hashcatEngine STARTED
+2024-03-13 14:07:28:INFO:input.hash fetched successfully
+2024-03-13 14:07:50:INFO:input.hash fetched successfully

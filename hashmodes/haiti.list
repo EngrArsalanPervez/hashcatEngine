@@ -1,0 +1,354 @@
+HC: 0,MD5 
+HC: 100,SHA-1 
+HC: 1000,NTLM 
+HC: 1000,NTLM 
+HC: 10000,Django (PBKDF2-HMAC-SHA256) 
+HC: 101,Netscape LDAP SHA 
+HC: 101,SHA-1(Base64) 
+HC: 10300,SAP CODVN H (PWDSALTEDHASH) iSSHA-1 
+HC: 10400,PDF 1.1 - 1.3 (Acrobat 2 - 4) 
+HC: 10410,"PDF 1.1 - 1.3 (Acrobat 2 - 4), collider #1 "
+HC: 10420,"PDF 1.1 - 1.3 (Acrobat 2 - 4), collider #2 "
+HC: 10500,PDF 1.4 - 1.6 (Acrobat 5 - 8) 
+HC: 10600,PDF 1.7 Level 3 (Acrobat 9) 
+HC: 10700,PDF 1.7 Level 8 (Acrobat 10 - 11) 
+HC: 10800,SHA-384 
+HC: 1100,"Domain Cached Credentials (DCC), MS Cache "
+HC: 111,Netscape LDAP SSHA 
+HC: 111,NSLDAPS (ssha) 
+HC: 111,SSHA-1 (Base64) 
+HC: 11100,PostgreSQL CRAM (MD5) 
+HC: 112,Oracle 11g/12c 
+HC: 11300,Bitcoin/Litecoin Wallet 
+HC: 11400,SIP digest authentication (MD5) 
+HC: 11500,CRC-32 
+HC: 11600,7-zip 
+HC: 12001,Atlassian (PBKDF2-HMAC-SHA1) 
+HC: 122,OSX v10.4 
+HC: 122,OSX v10.5 
+HC: 122,OSX v10.6 
+HC: 12400,BSDi Crypt 
+HC: 12500,RAR3 -hp 
+HC: 12800,AzureAD (MS-AzureSync) PBKDF2-HMAC-SHA256 
+HC: 1300,SHA-224 
+HC: 13000,RAR5 
+HC: 131,MSSQL(2000) 
+HC: 13100,Kerberos 5 TGS-REP etype 23 
+HC: 132,MSSQL(2005) 
+HC: 132,MSSQL(2008) 
+HC: 13400,KeePass 1 AES / without keyfile 
+HC: 13400,KeePass 1 Twofish / with keyfile 
+HC: 13400,Keepass 2 AES / with keyfile 
+HC: 13400,KeePass 2 AES / without keyfile 
+HC: 13600,WinZip 
+HC: 1400,SHA-256 
+HC: 141,EPiServer 6.x < v4 
+HC: 1421,hMailServer 
+HC: 1441,EPiServer 6.x ≥ v4 
+HC: 14700,iTunes backup < 10.0 
+HC: 14800,iTunes backup >= 10.0 
+HC: 1500,DES(Unix) 
+HC: 1500,DEScrypt 
+HC: 1500,Traditional DES 
+HC: 15100,SHA-1 Crypt (Juniper/NetBSD) 
+HC: 15300,DPAPI masterkey file v1 (context 1 and 2) 
+HC: 15310,DPAPI masterkey file v1 (context 3) 
+HC: 15600,Ethereum Wallet (PBKDF2-HMAC-SHA256) 
+HC: 15700,Ethereum Wallet (SCRYPT) 
+HC: 15900,DPAPI masterkey file v2 (context 1 and 2) 
+HC: 15910,DPAPI masterkey file v2 (context 3) 
+HC: 1600,Apache MD5 
+HC: 1600,crypt(3) MD5 
+HC: 1600,MD5 (APR) 
+HC: 1600,md5apr1 
+HC: 16300,Ethereum Presale Wallet (PBKDF2-HMAC-SHA256) 
+HC: 16800,WPA-PMKID-PBKDF2 
+HC: 1700,SHA-512 
+HC: 1711,LDAP (SSHA-512) 
+HC: 1711,SSHA-512 (Base64) 
+HC: 17200,PKZIP (Compressed) 
+HC: 17210,PKZIP (Uncompressed) 
+HC: 1722,OSX v10.7 
+HC: 17220,PKZIP (Compressed Multi-File) 
+HC: 17225,PKZIP (Mixed Multi-File) 
+HC: 17230,PKZIP (Mixed Multi-File Checksum-Only) 
+HC: 17300,SHA3-224 
+HC: 1731,MSSQL (2012) 
+HC: 1731,MSSQL (2014) 
+HC: 17400,SHA3-256 
+HC: 17500,SHA3-384 
+HC: 17600,SHA3-512 
+HC: 17600,SHA3-512 
+HC: 17700,Keccak-224 
+HC: 17800,Keccak-256 
+HC: 17900,Keccak-384 
+HC: 1800,SHA-512 Crypt 
+HC: 18000,Keccak-512 
+HC: 18200,Kerberos 5 AS-REP etype 23 
+HC: 18400,"Open Document Format (ODF) 1.2 (SHA-256, AES) "
+HC: 18600,"Open Document Format (ODF) 1.1 (SHA-1, Blowfish) "
+HC: 18900,Android Backup 
+HC: 190,LinkedIn 
+HC: 19800,Kerberos 5 AS-REQ Pre-Auth etype 17 
+HC: 19900,Kerberos 5 AS-REQ Pre-Auth etype 18 
+HC: 200,MySQL323 
+HC: 2100,"Domain Cached Credentials 2 (DCC2), MS Cache 2 "
+HC: 22,Juniper Netscreen/SSG (ScreenOS) 
+HC: 22100,BitLocker 
+HC: 22600,Telegram Desktop < v2.1.14 (PBKDF2-HMAC-SHA1) 
+HC: 22911,OpenSSH private key (RSA/DSA/EC) 
+HC: 22921,OpenSSH private key (RSA/DSA/EC) 
+HC: 22931,OpenSSH private key (RSA/DSA/EC) 
+HC: 22941,OpenSSH private key (RSA/DSA/EC) 
+HC: 22951,OpenSSH private key (RSA/DSA/EC) 
+HC: 23001,SecureZIP AES-128 
+HC: 23002,SecureZIP AES-192 
+HC: 23003,SecureZIP AES-256 
+HC: 23100,Apple macOS Keychain 
+HC: 23200,XMPP SCRAM PBKDF2-SHA1 
+HC: 23300,Apple iWork 
+HC: 23400,Bitwarden 
+HC: 23500,AxCrypt 2 
+HC: 23700,RAR3 -p (Uncompressed) 
+HC: 23800,RAR3 -p (Compressed) 
+HC: 2400,Cisco-PIX (MD5) 
+HC: 2410,Cisco-ASA (MD5) 
+HC: 24410,PKCS#8 Private Keys (PBKDF2-HMAC-SHA1 + 3DES/AES) 
+HC: 24500,Telegram Desktop >= v2.1.14 (PBKDF2-HMAC-SHA512) 
+HC: 24900,Dahua (MD5 Authentication) 
+HC: 25400,PDF 1.4 - 1.6 (Acrobat 5 - 8) - edit password 
+HC: 26000,Mozilla key3.db 
+HC: 2612,PHPS 
+HC: 26300,FortiGate256 (FortiOS256) 
+HC: 27000,NetNTLMv1 / NetNTLMv1+ESS (NT) 
+HC: 27100,NetNTLMv2 (NT) 
+HC: 27700,MultiBit Classic >= 0.5.19 .wallet 
+HC: 27900,CRC-32C 
+HC: 300,MySQL4.1 
+HC: 300,MySQL5.x 
+HC: 3000,LM 
+HC: 3200,bcrypt 
+HC: 3200,Blowfish(OpenBSD) 
+HC: 3300,Sun / Solaris MD5 Crypt 
+HC: 3711,MediaWiki 
+HC: 400,Joomla ≥ v2.5.18 
+HC: 400,PHPass' Portable Hash 
+HC: 400,PHPass' Portable Hash 
+HC: 400,phpBB v3.x 
+HC: 400,Wordpress v2.6.0/2.6.1 
+HC: 400,Wordpress ≥ v2.6.2 
+HC: 4800,iSCSI CHAP Authentication 
+HC: 4800,MD5(Chap) 
+HC: 500,Cisco Type 5 (MD5) 
+HC: 500,FreeBSD MD5 
+HC: 500,MD5 Crypt 
+HC: 5500,NetNTLMv1 / NetNTLMv1+ESS (vanilla) 
+HC: 5600,NetNTLMv2 (vanilla) 
+HC: 600,BLAKE2-512 (blake2b) 
+HC: 6000,RIPEMD-160 
+HC: 6100,Whirlpool 
+HC: 6300,AIX (smd5) 
+HC: 6400,AIX (ssha256) 
+HC: 6500,AIX (ssha512) 
+HC: 6700,AIX (ssha1) 
+HC: 6900,GOST R 34.11-94 
+HC: 7000,Fortigate(FortiOS) 
+HC: 7100,macOS v10.8+ (PBKDF2-HMAC-SHA512) 
+HC: 7200,GRUB 2 (PBKDF2-HMAC-SHA512) 
+HC: 7400,SHA-256 Crypt 
+HC: 7500,Kerberos 5 AS-REQ Pre-Auth etype 23 
+HC: 7700,SAP CODVN B (BCODE) 
+HC: 7701,SAP CODVN B (BCODE) from RFC_READ_TABLE 
+HC: 7800,SAP CODVN F/G (PASSCODE) 
+HC: 7801,SAP CODVN F/G (PASSCODE) from RFC_READ_TABLE 
+HC: 7900,Drupal > v7.x 
+HC: 8000,Sybase ASE 
+HC: 8100,Citrix Netscaler 
+HC: 8400,Woltlab Burning Board 3.x 
+HC: 8500,RACF 
+HC: 8600,Lotus Notes/Domino 5 
+HC: 8700,Lotus Notes/Domino 6 
+HC: 8800,Android FDE ≤ 4.3 
+HC: 900,MD4 
+HC: 9200,Cisco Type 8 (PBKDF2-SHA256) 
+HC: 9300,Cisco Type 9 (scrypt) 
+HC: 9400,Microsoft Office 2007 
+HC: 9500,Microsoft Office 2010 
+HC: 9600,Microsoft Office 2013 - 2019 
+HC: 9700,Microsoft Office ≤ 2003 (MD5+RC4) 
+HC: 9710,Microsoft Office ≤ 2003 (MD5+RC4) collider-mode #1 
+HC: 9720,Microsoft Office ≤ 2003 (MD5+RC4) collider-mode #2 
+HC: 9800,Microsoft Office ≤ 2003 (SHA1+RC4) 
+HC: 9810,Microsoft Office ≤ 2003 (SHA1+RC4) collider-mode #1 
+HC: 9820,Microsoft Office ≤ 2003 (SHA1+RC4) collider-mode #2 
+HC: 9900,RAdmin v2.x 
+HC: 10100,SipHash 
+HC: 10200,CRAM-MD5 
+HC: 10900,PBKDF2-HMAC-SHA256 
+HC: 10901,RedHat 389-DS LDAP (PBKDF2-HMAC-SHA256) 
+HC: 11,Joomla < v2.5.18 
+HC: 11000,PrestaShop 
+HC: 11200,MySQL Challenge-Response Authentication (SHA1) 
+HC: 11900,PBKDF2-HMAC-MD5 
+HC: 12000,PBKDF2-HMAC-SHA1 
+HC: 121,SMF ≥ v1.1 
+HC: 12100,PBKDF2-HMAC-SHA512 
+HC: 123,EPi 
+HC: 124,Django (SHA-1) 
+HC: 133,PeopleSoft 
+HC: 13711,VeraCrypt RIPEMD160 + XTS 512 bit (legacy) 
+HC: 13712,VeraCrypt RIPEMD160 + XTS 1024 bit (legacy) 
+HC: 13713,VeraCrypt RIPEMD160 + XTS 1536 bit (legacy) 
+HC: 13721,VeraCrypt SHA512 + XTS 512 bit (legacy) 
+HC: 13722,VeraCrypt SHA512 + XTS 1024 bit (legacy) 
+HC: 13723,VeraCrypt SHA512 + XTS 1536 bit (legacy) 
+HC: 13731,VeraCrypt Whirlpool + XTS 512 bit (legacy) 
+HC: 13732,VeraCrypt Whirlpool + XTS 1024 bit (legacy) 
+HC: 13733,VeraCrypt Whirlpool + XTS 1536 bit (legacy) 
+HC: 13741,VeraCrypt RIPEMD160 + XTS 512 bit + boot-mode (legacy) 
+HC: 13742,VeraCrypt RIPEMD160 + XTS 1024 bit + boot-mode (legacy) 
+HC: 13743,VeraCrypt RIPEMD160 + XTS 1536 bit + boot-mode (legacy) 
+HC: 13751,VeraCrypt SHA256 + XTS 512 bit (legacy) 
+HC: 13752,VeraCrypt SHA256 + XTS 1024 bit (legacy) 
+HC: 13753,VeraCrypt SHA256 + XTS 1536 bit (legacy) 
+HC: 13761,VeraCrypt SHA256 + XTS 512 bit + boot-mode (legacy) 
+HC: 13762,VeraCrypt SHA256 + XTS 1024 bit + boot-mode (legacy) 
+HC: 13763,VeraCrypt SHA256 + XTS 1536 bit + boot-mode (legacy) 
+HC: 13771,VeraCrypt Streebog-512 + XTS 512 bit (legacy) 
+HC: 13772,VeraCrypt Streebog-512 + XTS 1024 bit (legacy) 
+HC: 13773,VeraCrypt Streebog-512 + XTS 1536 bit (legacy) 
+HC: 13781,VeraCrypt Streebog-512 + XTS 512 bit + boot-mode (legacy) 
+HC: 13782,VeraCrypt Streebog-512 + XTS 1024 bit + boot-mode (legacy) 
+HC: 13783,VeraCrypt Streebog-512 + XTS 1536 bit + boot-mode (legacy) 
+HC: 1411,LDAP (SSHA-256) 
+HC: 1411,SSHA-256 (Base64) 
+HC: 16500,JSON Web Token (JWT) 
+HC: 19600,Kerberos 5 TGS-REP etype 17 (AES128-CTS-HMAC-SHA1-96) 
+HC: 19700,Kerberos 5 TGS-REP etype 18 (AES256-CTS-HMAC-SHA1-96) 
+HC: 20200,Python passlib (PBKDF2-HMAC-SHA512) 
+HC: 20300,Python passlib (PBKDF2-HMAC-SHA256) 
+HC: 20400,Python passlib (PBKDF2-HMAC-SHA1) 
+HC: 20500,PKZIP Master Key 
+HC: 20510,PKZIP Master Key (6 byte optimization) 
+HC: 20711,Minecraft (AuthMe Reloaded sha256) 
+HC: 21,osCommerce 
+HC: 21,xt:Commerce 
+HC: 21600,Web2py (PBKDF2-HMAC-SHA512) 
+HC: 22301,Telegram Mobile App Passcode (SHA256) 
+HC: 23,Skype 
+HC: 23900,Jetico BestCrypt v3 Volume Encryption 
+HC: 24100,MongoDB ServerKey SCRAM-SHA-1 
+HC: 24200,MongoDB ServerKey SCRAM-SHA-256 
+HC: 24420,PKCS#8 Private Keys (PBKDF2-HMAC-SHA256 + 3DES/AES) 
+HC: 24610,SQLCipher 
+HC: 24700,Stuffit5 
+HC: 24800,Umbraco HMAC-SHA1 
+HC: 25000,SNMPv3 HMAC-MD5-96/HMAC-SHA1-96 
+HC: 25100,SNMPv3 HMAC-MD5-96 
+HC: 25200,SNMPv3 HMAC-SHA1-96 
+HC: 25300,Microsoft Office 2016 - SheetProtection 
+HC: 25500,Stargazer Stellar Wallet XLM 
+HC: 25700,MurmurHash 
+HC: 25900,KNX IP Secure - Device Authentication Code 
+HC: 26100,Mozilla key4.db 
+HC: 2611,vBulletin < v3.8.5 
+HC: 26200,OpenEdge Progress 4GL Encode 
+HC: 26500,iPhone passcode (UID key + System Keybag) 
+HC: 26600,MetaMask Wallet 
+HC: 26700,SNMPv3 HMAC-SHA224-128 
+HC: 26800,SNMPv3 HMAC-SHA256-192 
+HC: 26900,SNMPv3 HMAC-SHA384-256 
+HC: 2711,vBulletin ≥ v3.8.5 
+HC: 27200,"Ruby on Rails Restful Auth (one round, no sitekey) "
+HC: 27300,SNMPv3 HMAC-SHA512-384 
+HC: 27400,VMware VMX (PBKDF2-HMAC-SHA1 + AES-256-CBC) 
+HC: 27500,VirtualBox (PBKDF2-HMAC-SHA256 & AES-128-XTS) 
+HC: 27600,VirtualBox (PBKDF2-HMAC-SHA256 & AES-256-XTS) 
+HC: 27800,MurmurHash3 
+HC: 28000,CRC64Jones 
+HC: 2810,IPB 2.x (Invision Power Board) 
+HC: 28100,Windows Hello PIN/Password 
+HC: 28200,Exodus Desktop Wallet (scrypt) 
+HC: 28300,Teamspeak 3 (channel hash) 
+HC: 28501,"Bitcoin WIF private key (P2PKH), compressed "
+HC: 28502,"Bitcoin WIF private key (P2PKH), uncompressed "
+HC: 28503,"Bitcoin WIF private key (P2WPKH, Bech32), compressed "
+HC: 28504,"Bitcoin WIF private key (P2WPKH, Bech32), uncompressed "
+HC: 28505,"Bitcoin WIF private key (P2SH(P2WPKH)), compressed "
+HC: 28506,"Bitcoin WIF private key (P2SH(P2WPKH)), uncompressed "
+HC: 28600,PostgreSQL SCRAM-SHA-256 
+HC: 28700,Amazon AWS4-HMAC-SHA256 
+HC: 28800,Kerberos 5 DB etype 17 
+HC: 28900,Kerberos 5 DB etype 18 
+HC: 29100,Flask Session Cookie ($salt.$salt.$pass) 
+HC: 29200,Radmin3 
+HC: 29311,TrueCrypt RIPEMD160 + XTS 512 bit 
+HC: 29312,TrueCrypt RIPEMD160 + XTS 1024 bit 
+HC: 29313,TrueCrypt RIPEMD160 + XTS 1536 bit 
+HC: 29321,TrueCrypt SHA512 + XTS 512 bit 
+HC: 29322,TrueCrypt SHA512 + XTS 1024 bit 
+HC: 29323,TrueCrypt SHA512 + XTS 1536 bit 
+HC: 29331,TrueCrypt Whirlpool + XTS 512 bit 
+HC: 29332,TrueCrypt Whirlpool + XTS 1024 bit 
+HC: 29333,TrueCrypt Whirlpool + XTS 1536 bit 
+HC: 29341,TrueCrypt RIPEMD160 + XTS 512 bit + boot-mode 
+HC: 29342,TrueCrypt RIPEMD160 + XTS 1024 bit + boot-mode 
+HC: 29343,TrueCrypt RIPEMD160 + XTS 1536 bit + boot-mode 
+HC: 29411,VeraCrypt RIPEMD160 + XTS 512 bit 
+HC: 29412,VeraCrypt RIPEMD160 + XTS 1024 bit 
+HC: 29413,VeraCrypt RIPEMD160 + XTS 1536 bit 
+HC: 29421,VeraCrypt SHA512 + XTS 512 bit 
+HC: 29422,VeraCrypt SHA512 + XTS 1024 bit 
+HC: 29431,VeraCrypt Whirlpool + XTS 512 bit 
+HC: 29432,VeraCrypt Whirlpool + XTS 1024 bit 
+HC: 29433,VeraCrypt Whirlpool + XTS 1536 bit 
+HC: 29441,VeraCrypt RIPEMD160 + XTS 512 bit + boot-mode 
+HC: 29442,VeraCrypt RIPEMD160 + XTS 1024 bit + boot-mode 
+HC: 29452,VeraCrypt SHA256 + XTS 1024 bit 
+HC: 29453,VeraCrypt SHA256 + XTS 1536 bit 
+HC: 29461,VeraCrypt SHA256 + XTS 512 bit + boot-mode 
+HC: 29462,VeraCrypt SHA256 + XTS 1024 bit + boot-mode 
+HC: 29463,VeraCrypt SHA256 + XTS 1536 bit + boot-mode 
+HC: 29471,VeraCrypt Streebog-512 + XTS 512 bit 
+HC: 29472,VeraCrypt Streebog-512 + XTS 1024 bit 
+HC: 29473,VeraCrypt Streebog-512 + XTS 1536 bit 
+HC: 29481,VeraCrypt Streebog-512 + XTS 512 bit + boot-mode 
+HC: 29482,VeraCrypt Streebog-512 + XTS 1024 bit + boot-mode 
+HC: 29483,VeraCrypt Streebog-512 + XTS 1536 bit + boot-mode 
+HC: 29600,Terra Station Wallet (AES256-CBC(PBKDF2($pass))) 
+HC: 29910,ENCsecurity Datavault (PBKDF2/no keychain) 
+HC: 29920,ENCsecurity Datavault (PBKDF2/keychain) 
+HC: 29930,ENCsecurity Datavault (MD5/no keychain) 
+HC: 29940,ENCsecurity Datavault (MD5/keychain) 
+HC: 30000,Python Werkzeug MD5 (HMAC-MD5 (key = $salt)) 
+HC: 30120,Python Werkzeug SHA256 (HMAC-SHA256 (key = $salt)) 
+HC: 3100,DES(Oracle) 
+HC: 3100,Oracle 7-10g 
+HC: 3721,WebEdition CMS 
+HC: 4500,Double SHA-1 
+HC: 4521,Redmine 
+HC: 5100,Half MD5 
+HC: 5300,IKE-PSK MD5 
+HC: 5400,IKE-PSK SHA1 
+HC: 5700,Cisco Type 4 (Raw SHA256) 
+HC: 5800,Android PIN 
+HC: 6211,TrueCrypt RIPEMD160 + XTS 512 bit (legacy) 
+HC: 6212,TrueCrypt RIPEMD160 + XTS 1024 bit (legacy) 
+HC: 6213,TrueCrypt RIPEMD160 + XTS 1536 bit (legacy) 
+HC: 6221,TrueCrypt SHA512 + XTS 512 bit (legacy) 
+HC: 6222,TrueCrypt SHA512 + XTS 1024 bit (legacy) 
+HC: 6223,TrueCrypt SHA512 + XTS 1536 bit (legacy) 
+HC: 6231,TrueCrypt Whirlpool + XTS 512 bit (legacy) 
+HC: 6232,TrueCrypt Whirlpool + XTS 1024 bit (legacy) 
+HC: 6233,TrueCrypt Whirlpool + XTS 1536 bit (legacy) 
+HC: 6241,TrueCrypt RIPEMD160 + XTS 512 bit + boot-mode (legacy) 
+HC: 6242,TrueCrypt RIPEMD160 + XTS 1024 bit + boot-mode (legacy) 
+HC: 6243,TrueCrypt RIPEMD160 + XTS 1536 bit + boot-mode (legacy) 
+HC: 6600,1Password(Agile Keychain) 
+HC: 6800,LastPass / LastPass sniffed 
+HC: 7300,IPMI 2.0 RAKP HMAC-SHA1 
+HC: 7350,IPMI 2.0 RAKP HMAC-MD5 
+HC: 8200,1Password(Cloud Keychain) 
+HC: 8300,DNSSEC (NSEC3) 
+HC: 8900,scrypt 
+HC: 9100,Lotus Notes/Domino 8 
